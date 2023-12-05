@@ -9,7 +9,7 @@
     <a href="https://github.com/charissachua/Library-XYZ"><b>Explore the docs »</b></a>
     <br/>
     <br/>
-    <a href="https://github.com/charissachua/Library-XYZ">View Demo</a>
+    <a href="https://xyz-library.onrender.com">View Demo</a>
     &nbsp;
     <a href="https://github.com/charissachua/Library-XYZ/issues">Report Bug</a>
     &nbsp;
