@@ -1,0 +1,48 @@
+{
+  "name": "library-xyz",
+  "version": "0.1.0",
+  "private": true,
+  "author": "charissachua",
+  "license": "Apache-2.0",
+  "description": "Library XYZ's Server",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charissachua/Library-XYZ.git"
+  },
+  "keywords": [
+    "library-xyz"
+  ],
+  "bugs": {
+    "url": "https://github.com/charissachua/Library-XYZ/issues"
+  },
+  "scripts": {
+    "dev": "set NODE_OPTIONS=--max-old-space-size=4096 && next dev -p 4000",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "axios": "1.4.0",
+    "better-sqlite3": "9.1.1",
+    "daisyui": "3.5.0",
+    "next": "13.4.12",
+    "react": "18.2.0",
+    "react-datepicker": "4.24.0",
+    "react-dom": "18.2.0",
+    "react-google-recaptcha": "3.1.0",
+    "typescript": "5.1.6"
+  },
+  "devDependencies": {
+    "@types/better-sqlite3": "7.6.8",
+    "@types/react-datepicker": "4.19.3",
+    "@types/node": "20.4.5",
+    "@types/react": "18.2.17",
+    "@types/react-dom": "18.2.7",
+    "@types/react-google-recaptcha": "2.1.5",
+    "autoprefixer": "10.4.14",
+    "eslint": "8.45.0",
+    "eslint-config-next": "13.4.12",
+    "postcss": "8.4.27",
+    "tailwindcss": "3.3.3"
+  }
+}
